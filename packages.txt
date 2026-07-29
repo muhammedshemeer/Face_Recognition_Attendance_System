@@ -1,1 +1,4 @@
 cmake
+libopenblas-dev
+liblapack-dev
+libgl1-mesa-glx

@@ -1,6 +1,7 @@
-streamlit
+streamlit>=1.30.0
 numpy
-opencv-python-headless
-face_recognition
+pillow
 firebase-admin
-Pillow
+opencv-python-headless
+dlib-bin
+face_recognition @ git+https://github.com/thetoby9944/face_recognition
