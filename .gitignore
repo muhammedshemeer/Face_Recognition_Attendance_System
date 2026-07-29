@@ -15,7 +15,3 @@ backend/*.json
 env/
 venv/
 ENV/
-
-# Helper script
-push_to_hf.ps1
-
