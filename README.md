@@ -1,7 +1,7 @@
 ---
 title: Face Recognition Attendance System
 emoji: 👤
-colorFrom: teal
+colorFrom: indigo
 colorTo: blue
 sdk: streamlit
 sdk_version: 1.57.0
